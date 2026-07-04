@@ -1,5 +1,6 @@
 Hi Guys,
 This is my second file but this I'm confuse to create a two repositiories in same name as Git and Github Practice,
 becuase I'm initially create repository in Github and then I'm create in VS Code so that's I'm confusing it,
+So im delete the repository created from github, Now I'm use only created from VS Code to make changes in the files.
 now I'm clear in this concept to create a repository
 thank you for reveiwing my Github Account.
