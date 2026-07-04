@@ -3,6 +3,7 @@ Hi there, I'm Hadhi Noor Mohamed H👋
 I am a passionate Full Stack Learner on a journey to build impactful web applications and solve real-world problems. Currently, I am actively leveling up my skills in Version Control with "Git & GitHub" to collaborate effectively on projects.
 
 🚀 About Me
+
  🔭 I’m currently working on learning Full Stack.
  🌱 I’m practicing advanced Git workflows (branching, merging, and PRs) to contribute to open-source.
  💬 Ask me about Git.
