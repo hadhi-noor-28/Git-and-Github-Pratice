@@ -3,4 +3,4 @@ This file is created for practicing a reset concept of three types that are,
 >soft reset 
 >mixed reset
 >Hard reset
-these concepts are now practicing so now I'm make three comits to understend the these concepts.
+these concepts are now practicing, so now I'm make three comits to understend the these concepts.
